@@ -8,7 +8,7 @@ public class EmailSender {
 	private final int EMAIL_NOT_SENT = -1; 
 	
     private final static String SENDER_ADDRESS = "rsoliveira.computacao@gmail.com";
-    private final static String PASSWORD = "fusrohdah";
+    private final static String PASSWORD = "";
     
     public int sendMessage
     	(
